@@ -46,7 +46,8 @@ typedef enum{
 	PURPLE,
 	CYAN,
 	WHITE,
-	BLACK	
+	BLACK,
+	MAX_NUM
 }RGB_Color;
 
 /* USER CODE END PV */

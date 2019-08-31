@@ -99,7 +99,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-		RGB_ON((RGB_Color)(color % 8));
+		RGB_ON((RGB_Color)color);
 		color++;
 		HAL_Delay(1000);
   }

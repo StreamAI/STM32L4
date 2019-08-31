@@ -64,7 +64,7 @@ void MX_GPIO_Init(void)
 
 void RGB_ON(RGB_Color RGB_LED)
 {
-	switch(RGB_LED)
+	switch(RGB_LED % MAX_NUM)
 		{
 			case RED:
 				HAL_GPIO_WritePin(GPIOE, LED_R_Pin, GPIO_PIN_RESET);
