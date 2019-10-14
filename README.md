@@ -10,5 +10,5 @@
 
 
 
-### 3.[《STM32之CubeL4（三）--- SPI + QSPI + HAL》](https://blog.csdn.net/m0_37621078/article/details/101395150)
+### 3.[《STM32（三）--- SPI + QSPI + HAL》](https://blog.csdn.net/m0_37621078/article/details/101395150)
 
